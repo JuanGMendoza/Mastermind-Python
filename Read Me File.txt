@@ -1,0 +1,6 @@
+This Project was made from scratch for an introduction to coding class.
+
+It was continued as a hobby, any bugs, ideas for improvements or comm-
+ents you can email me at juangmendoza@utexas.edu
+
+Enjoy!
